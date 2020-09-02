@@ -1,0 +1,167 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Valerie Varias
+    tagline: UX Designer/ Frontend Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: valerievarias@gmail.com
+    phone: +31 613068564
+    website: behance.net/valerievarias #do not add http://
+    linkedin: valerievarias
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: 
+
+      - idiom: Dutch
+        level: 
+
+      - idiom: Tagalog
+        level: 
+            
+    tools:
+      - software: Sketch
+      - software: Photoshop
+      - software: Illustrator
+      - software: Adobe XD
+      - software: Balsamiq
+      - software: InVision
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: Interactief vormgever
+      university: Mediacollege Amsterdam
+      time: 2010 - 2014
+      details: 
+          
+experiences:
+    - role: UX Designer / Frontend developer
+      time: Oct 2017 - Nov 2020
+      company: Scoupy
+      details: |
+          - Optimization and designing of Scoupy website
+          - Redesigned whole Scoupy website
+          - Help Email marketing design email templates
+          - Designing and building dedicated landingspages
+    - role: Web designer
+      time: Feb 2016 - Sep 2017
+      company: Creative Clicks
+      details: |
+          - Designing and building landingspages
+          - Designing and building email templates
+    - role: Frontend developer
+      time: Oct 2015 - Feb 2016
+      company: Competa IT
+      details: |
+          - Help designed Fair Trade Software Foundation & Competa website
+          - Part of developing frontend Competa website
+    - role: Web designer
+      time: Jul 2014 - Sep 2015
+      company: Digimo Media
+      details: |
+          - Designing and building landingspages, email templates and Ad banners
+        
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills 
+
+    toolset:
+      - name: UX Design
+        level: 80%
+
+      - name: Web design
+        level: 90%
+
+      - name: HTML5, CSS & Sass
+        level: 95%
+
+      - name: Wireframing & Prototyping
+        level: 85%
+        
+      - name: Javascript & jQuery
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
