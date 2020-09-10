@@ -154,17 +154,17 @@ skills:
       - name: Web design
         level: 90%
 
+      - name: Wireframing & Prototyping
+        level: 85%
+    
       - name: HTML5, CSS & Sass
         level: 95%
 
-      - name: Wireframing & Prototyping
-        level: 85%
-        
       - name: Bootstrap
         level: 70%
         
       - name: Javascript & jQuery
-        level: 50%
+        level: 45%
 
 footer: >
     
