@@ -37,8 +37,8 @@ sidebar:
             
     tools:
       - software: Sketch
-      - software: Photoshop
-      - software: Illustrator
+      - software: Adobe Photoshop
+      - software: Adobe Illustrator
       - software: Adobe XD
       - software: Balsamiq
       - software: InVision
@@ -76,12 +76,12 @@ experiences:
           - Optimization and designing of Scoupy website
           - Redesigned whole Scoupy website
           - Help Email marketing design email templates
-          - Designing and building dedicated landingspages
+          - Designing and building dedicated landing pages
     - role: Web designer
       time: Feb 2016 - Sep 2017
       company: Creative Clicks
       details: |
-          - Designing and building landingspages
+          - Designing and building landing pages
           - Designing and building email templates
     - role: Frontend developer
       time: Oct 2015 - Feb 2016
@@ -89,11 +89,11 @@ experiences:
       details: |
           - Help designed Fair Trade Software Foundation & Competa website
           - Part of developing frontend Competa website
-    - role: Web designer
+    - role: Junior Web designer
       time: Jul 2014 - Sep 2015
       company: Digimo Media
       details: |
-          - Designing and building landingspages, email templates and Ad banners
+          - Designing and building landing pages, email templates and Ad banners
         
 projects:
     title: Projects
@@ -149,7 +149,7 @@ skills:
 
     toolset:
       - name: UX Design
-        level: 80%
+        level: 75%
 
       - name: Web design
         level: 90%
@@ -159,6 +159,9 @@ skills:
 
       - name: Wireframing & Prototyping
         level: 85%
+        
+      - name: Bootstrap
+        level: 70%
         
       - name: Javascript & jQuery
         level: 50%
