@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: valerievarias@gmail.com
     phone: +31 613068564
-    website: behance.net/valerievarias #do not add http://
+    website: behance.net/valerievarias #do not add https://
     linkedin: valerievarias
     github: 
     telegram: # add your nickname without '@' sign
@@ -167,4 +167,4 @@ skills:
         level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
