@@ -3,7 +3,7 @@
 # Site Settings
 title: Valerie Varias | Resume
 url: 'https://isaunone.github.io/resume'
-baseurl: 'resume' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 description: Valerie Varias | UX designer | Frontend developer 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: orange # blue turquoise green berry orange ceramic
