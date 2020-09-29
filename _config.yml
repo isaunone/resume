@@ -2,15 +2,15 @@
 
 # Site Settings
 title: Valerie Varias | Resume
-url: 'https://isaunone.github.io/'
-baseurl: '' #change it according to your repository name
+url: 'https://isaunone.github.io/resume'
+baseurl: 'resume' #change it according to your repository name
 description: Valerie Varias | UX designer | Frontend developer 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: orange # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-73286120-1
+analytics:
 
 
 
