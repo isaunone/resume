@@ -16,6 +16,7 @@ sidebar:
     phone: +31 613068564
     website: valerievarias.com #do not add https://
     linkedin: valerievarias
+    behance: behance.net/valerievarias #do not add https://
     github: 
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -36,11 +37,11 @@ sidebar:
         level: 
             
     tools:
-      - software: Sketch
-      - software: Adobe Photoshop
-      - software: Adobe Illustrator
-      - software: Adobe XD
-      - software: Balsamiq
+      - software: VScode
+      - software: Figma
+      - software: Terminal
+      - software: Git
+      - software: NPM
       - software: InVision
 
     interests:
@@ -69,6 +70,13 @@ education:
       details: 
           
 experiences:
+    - role: Frontend Developer
+      time: Oct 2020 - Present
+      company: Cloudsuite
+      details: |
+          - Optimization client websites
+          - Creating new features for client webistes
+          - Develop (redesign)websites
     - role: UX Designer / Frontend developer
       time: Oct 2017 - Nov 2020
       company: Scoupy
@@ -147,24 +155,18 @@ publications:
 skills:
     title: Skills 
 
-    toolset:
-      - name: UX Design
+    toolset:  
+      - name: HTML5, CSS, Sass & LESS
+        level: 95%
+      
+      - name: Javascript & jQuery
         level: 75%
 
-      - name: Web design
-        level: 90%
+      - name: UX Design
+        level: 80%
 
       - name: Wireframing & Prototyping
         level: 85%
-    
-      - name: HTML5, CSS & Sass
-        level: 95%
-
-      - name: Bootstrap
-        level: 70%
-        
-      - name: Javascript & jQuery
-        level: 45%
 
 footer: >
     
