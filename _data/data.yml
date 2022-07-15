@@ -69,6 +69,9 @@ education:
       details: 
           
 experiences:
+    - role: Frontend developer
+      time: Oct 2020 - Present
+      company: Cloudsuite
     - role: UX Designer / Frontend developer
       time: Oct 2017 - Nov 2020
       company: Scoupy
