@@ -38,11 +38,10 @@ sidebar:
             
     tools:
       - software: VScode
-      - software: Figma
+      - software: Figma/InVision/Sketch
       - software: Terminal
       - software: Git
       - software: NPM
-      - software: InVision
 
     interests:
       - item: Climbing
